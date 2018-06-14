@@ -2,7 +2,7 @@ class Graphql < Formula
   desc "Command line tool for common GraphQL development workflows"
   homepage "https://github.com/graphql-cli/graphql-cli"
   url "https://github.com/graphql-cli/graphql-cli/releases/download/v2.16.3/graphql-macos"
-  sha256 "3158c517b57914c07205d3e072805989848e065d681ac8638eb5291d53d9f806"
+  sha256 "091a2d3b4fb626a560b657411d755025298bad06de07406af648dace600dd30a"
   version "2.16.3"
 
   bottle :unneeded
