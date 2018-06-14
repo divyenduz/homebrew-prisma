@@ -1,4 +1,4 @@
-class Weather < Formula
+class Graphql < Formula
   desc "Command line tool for common GraphQL development workflows"
   homepage "https://github.com/graphql-cli/graphql-cli"
   url "https://github.com/graphql-cli/graphql-cli/releases/download/v2.16.3/graphql-macos"
@@ -8,6 +8,6 @@ class Weather < Formula
   bottle :unneeded
 
   def install
-    bin.install "weather"
+    bin.install "graphql"
   end
 end
