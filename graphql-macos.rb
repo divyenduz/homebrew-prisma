@@ -1,4 +1,4 @@
-class Graphql < Formula
+class GraphqlMacos < Formula
   desc "Command line tool for common GraphQL development workflows"
   homepage "https://github.com/graphql-cli/graphql-cli"
   url "https://github.com/graphql-cli/graphql-cli/releases/download/v2.16.3/graphql-macos"
