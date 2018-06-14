@@ -8,6 +8,6 @@ class Graphql < Formula
   bottle :unneeded
 
   def install
-    bin.install "graphql"
+    bin.install "graphql-macos"
   end
 end
